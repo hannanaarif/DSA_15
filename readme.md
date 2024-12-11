@@ -179,19 +179,33 @@ Below is a curated list of LeetCode problems categorized by DSA patterns. Each s
 
 ### **6. Cyclic Sort**
 1. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+
 2. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+
 3. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
 4. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
 5. [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+
 6. [Missing Number](https://leetcode.com/problems/missing-number/)
+
 7. [Smallest Missing Positive Number](https://leetcode.com/problems/first-missing-positive/) *(variation)*
+
 8. [Cycle Detection](https://leetcode.com/problems/find-the-duplicate-number/) *(variation)*
+
 9. [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/) *(variation)*
+
 10. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
 11. [Rearrange Array Elements](https://leetcode.com/problems/missing-number/) *(variation)*
+
 12. [Sort an Array Containing 1 to n](https://leetcode.com/problems/missing-number/) *(variation)*
+
 13. [Find Missing Ranges](https://leetcode.com/problems/missing-ranges/)
+
 14. [Count Numbers With Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+
 15. [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 
 ---
